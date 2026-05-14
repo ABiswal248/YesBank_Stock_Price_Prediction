@@ -186,10 +186,11 @@ Integrate real-time stock market APIs
 Deploy the project using Flask or Streamlit
 Add a live stock prediction dashboard
 Improve prediction accuracy using advanced ensemble methods
-Author
+
+Author:-
 
 ARJYA BISWAL
 
-License
+License:-
 
 This project is developed for educational and academic purposes.
