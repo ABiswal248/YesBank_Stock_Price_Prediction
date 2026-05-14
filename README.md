@@ -176,10 +176,10 @@ Integrate real-time stock market API
 Deploy the project using Flask or Streamlit
 Add live prediction dashboard
 
-### Author
+Author
 
 ARJYA BISWAL
 
-### License
+License
 
 This project is developed for educational and academic purposes.
